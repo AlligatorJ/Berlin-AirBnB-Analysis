@@ -37,5 +37,6 @@ Airbnb seems to affect gentriefied areas more, but the number of listings is too
 
 # Acknowledgements
 http://insideairbnb.com
+
 https://de.wikipedia.org/wiki/Bevölkerung_Berlins
 
