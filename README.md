@@ -8,7 +8,7 @@
   Pandas 0.23.1
   
   Matplotlib 2.2.2
- # Require data
+ # Required data
  The required data can be found: http://insideairbnb.com/get-the-data.html
  
  listings.csv.gz for Berlin unpacked as listings.csv:
