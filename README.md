@@ -8,6 +8,14 @@
   Pandas 0.23.1
   
   Matplotlib 2.2.2
+ # Require data
+ The required data can be found: http://insideairbnb.com/get-the-data.html
+ 
+ listings.csv.gz for Berlin unpacked as listings.csv:
+ csv file with the data of Airbnb listings in Berlin from insideairbnb
+ 
+ calender.csv.gz for Berlin unpacked as calendar.csv: 
+ csv file with the data of Airbnb availabilty in Berlin from insideairbnb
   
 # Motivation
 Investigation of Airbnb data with following questions:
@@ -24,12 +32,6 @@ Jupiter Notebook with analysis
 
 calendar.csv:
 csv file with the data of Airbnb availabilty in Berlin from insideairbnb
-
-listings.csv:
-csv file with the data of Airbnb listings in Berlin from insideairbnb
-
-Population.csv:
-csv file with the data of population data of Berlin from wikipedia
 
 # Summary
 
