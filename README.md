@@ -30,8 +30,8 @@ Investigation of Airbnb data with following questions:
 Airbnb_Berlin_Analysis.ipynb: 
 Jupiter Notebook with analysis
 
-calendar.csv:
-csv file with the data of Airbnb availabilty in Berlin from insideairbnb
+Population_berlin.xlsx:
+XLSX file with the data of Population of Berlins neighbourhoods
 
 # Summary
 
