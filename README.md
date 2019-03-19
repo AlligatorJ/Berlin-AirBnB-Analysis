@@ -1,4 +1,4 @@
-# Berlin-airbnb-analysis
+# Berlin AirBnB Analysis
 
 # Libaries
   Phyton 3.6.5
